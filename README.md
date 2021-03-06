@@ -1,4 +1,4 @@
-# Sigma Coding Python Library
+# ALL about Distribution Python Library
 
 ## Table of Contents
 
